@@ -45,7 +45,7 @@ Nilai bilangan desimal (_float_) dapat dibulatkan baik ke atas maupun ke bawah. 
 import math
 
 print(math.floor(14.8))
-print(math.floor(14.3))
+print(math.ceil(14.3))
 ```
 
 Output:
